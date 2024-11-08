@@ -1,0 +1,23 @@
+# Basic imports and setup
+os
+logging
+yt-dlp
+pydub
+math
+json
+
+# RAG-related imports
+openai
+langchain
+chromadb
+sentence-transformers
+
+# Gradio demo
+gradio
+speechrecognition
+requests
+tempfile
+
+# Langchain Core
+langsmith
+python-dotenv
